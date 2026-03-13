@@ -4,7 +4,7 @@
 Derives the MOND acceleration scale
 
 $$
-a_{0}= \frac{c\,H}{2\pi},
+a_{0}= \frac{c{H}}{2\pi},
 $$
 
 from the condition that the Rindler horizon equals the Gibbons–Hawking thermal wavelength.  
