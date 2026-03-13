@@ -1,0 +1,1 @@
+# The-MOND-Acceleration-Scale-from-Rindler-de-Sitter-Thermodynamics
